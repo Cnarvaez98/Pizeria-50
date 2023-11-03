@@ -56,3 +56,33 @@ Algunos ingredientes como la albahaca, la rúcula, el salmón o el jamón quedan
 Las pizzas al horno de leña o en hornos especializados pueden llegar a cocerse a alrededor de los 400 °C, así que lo mejor es utilizar la temperatura máxima de tu horno en casa y prestar atención para que no se pase de cocción.
 Puedes usar cualquier queso rallado que tengas para tu pizza casera, pero te recomendamos usar queso mozzarella porque se funde mejor y queda más delicioso.
 Si no cuentas con levadura, puedes seguir nuestra receta de masa de pizza sin levadura
+
+
+# Receta de Pizza Edgar Ortega 🍕
+
+## Ingredientes
+- Base de pizza
+- Salsa de tomate
+- Queso mozzarella
+- Ingredientes a elección (por ejemplo, champiñones, jamón, pimientos, aceitunas)
+- Orégano
+- Aceite de oliva
+- Sal y pimienta
+
+## Instrucciones
+
+1. Precalienta el horno a 220°C.
+
+2. Extiende la base de pizza en una bandeja.
+
+3. Cubre con salsa de tomate y espolvorea queso mozzarella.
+
+4. Agrega los ingredientes de tu elección.
+
+5. Espolvorea orégano, añade aceite de oliva, sal y pimienta.
+
+6. Hornea durante 12-15 minutos hasta que esté dorada.
+
+7. Sirve y disfruta.
+
+¡Buen provecho!
